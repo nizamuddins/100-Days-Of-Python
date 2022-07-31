@@ -1,6 +1,23 @@
+# DATATYPES and type() Checking
 
-number = input("type a two digit number");
-num1 = int(number[0]);
-num2 = int(number[1]);
-print(num1 + num2)
+# string
+name = 'nizam';
+print(type(name))
+
+# integer
+num1 = 32;
+print(type((num1)))
+# float
+num2 = 34.4,
+print(type(num2))
+
+# boolean
+# True and False
+
+# --------------
+
+# len() function does not work with intger and float
+
+# can concatenete string + string only not string + intger or float
+
 

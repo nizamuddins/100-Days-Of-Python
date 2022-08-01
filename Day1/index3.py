@@ -1,4 +1,4 @@
-# len() method
+# len() function
 
 name = input("Who are you?");
 length = len(name);

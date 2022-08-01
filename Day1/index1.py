@@ -7,7 +7,7 @@ print('hello '+ 'world');
 print('Hello world');
 
 # in ""
-print("Hello world")
+print("Hello world");
 
 # \n print in next line
 print('Hello\nWorld');

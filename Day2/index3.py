@@ -16,6 +16,6 @@
 # left-right
 
 
-print(int((2+6)/2))
+print(int((2+6)/2));
 
 print(int(-(7/5)+(4+2)));

@@ -8,12 +8,12 @@ print(type(f_name2));
 # str()
 num1 = 32;
 num2 = str(num1);
-print(type(num2))
+print(type(num2));
 
 # float()
 name = '213.34';
 name2 = float(name);
-print(type(name2))
+print(type(name2));
 
 
 

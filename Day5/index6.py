@@ -3,7 +3,7 @@
 # random.shuffle()
 # ''.join()
 # [index for index in name]
-# for index,in arr enumerate()
+# for index,arr in  enumerate()
 
 
 import random
@@ -28,10 +28,7 @@ for num3 in range(0,nr_numbers):
     number = random.randint(0,len(numbers)-1);
     password += numbers[number];
 
-shuffle
 
-random.shuffle(password);
-password1 = ''.join(password);
 
 password1 = [char for char in password];
 random.shuffle(password1);

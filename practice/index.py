@@ -1,10 +1,42 @@
-# Varibles
+# version:python3
+
+# python: python is a high level and Object-Oriented Programming Language;
+
+# Why python:
+# .Easy to use
+# .Expressive Language
+
+# Applications:
+# 1)Web deevelopment
+# 2)software deevelopment
+# 3)Mathematics
+
+# .Its syntax is simple similar to english
+# .python uses new line for each command
+# .It relies on indentation,using white space for definig functions,loops and classes
+
+
+# Varibles: 
+# variables are the names to which values are assign and use them as a referenced throughout the program
+# variables keeps value accessible
+# variables gives context to values
+# values are assigned to variables using assignment Operator "="
+
+# points to be followed while defining Varibles
+# .variables names can contains numbers,letters and underscores
+# .variables can't contains spaces
+# .variables cannot star with numbers
+# .variables are case-sensitive
+
 name = "Nizam";
 a1 = 2;
 _a = 23;
 user_name ="itsnizam";
 
 # I/O Operations
+
+# print:print function prints the message as output on the screen
+
 print("I amm Back"+" From Sleep");
 print('Md nizam'+' From  Hyderabad');
 
@@ -12,3 +44,8 @@ print('Md nizam'+' From  Hyderabad');
 print("nizam",end="");
 # sep parameter
 print("Nizam","Uddin",sep="@")
+
+# input:It takes input from user
+
+name = input("Enter your name");
+print(name);

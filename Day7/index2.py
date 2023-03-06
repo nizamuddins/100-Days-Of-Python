@@ -10,5 +10,6 @@ def prime(num1):
         print("Prime number");
     else:
         print("Not a Prime number");
+prime(num);
 
-prime(num)
+

@@ -29,7 +29,6 @@ for num3 in range(0,nr_numbers):
     password += numbers[number];
 
 
-
 password1 = [char for char in password];
 random.shuffle(password1);
 password3 =  "".join(password1)

@@ -1,7 +1,8 @@
 # while loop
 num1 = 8;
-
-while num1<10:
-    print(num1);
+i=0;
+while i<num1:
+    print(i);
+    i+=1;
     
 

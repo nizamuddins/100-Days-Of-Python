@@ -49,3 +49,23 @@ print("Nizam","Uddin",sep="@")
 
 name = input("Enter your name");
 print(name);
+
+# Different types of datatypes=>
+
+# Text Type:	str
+# Numeric Types:	int, float, complex
+# Sequence Types:	list, tuple, range
+# Mapping Type:	dict
+# Set Types:	set, frozenset
+# Boolean Type:	bool
+# Binary Types:	bytes, bytearray, memoryview
+# None Type:	NoneType
+
+name = "nizam";
+num = 2;
+list1 = [1,2,4,5,67];
+tuple1 = (1,3,5,7);
+dict2 = {
+    "name":"nizam",
+    "age":21
+}

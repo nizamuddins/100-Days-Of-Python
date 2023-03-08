@@ -61,11 +61,19 @@ print(name);
 # Binary Types:	bytes, bytearray, memoryview
 # None Type:	NoneType
 
-name = "nizam";
-num = 2;
-list1 = [1,2,4,5,67];
-tuple1 = (1,3,5,7);
-dict2 = {
-    "name":"nizam",
-    "age":21
-}
+# name = "nizam";=>string
+# num = 2;=>int
+# f = 2.5=>float
+# list1 = [1,2,4,5,67];=>list
+# tuple1 = (1,3,5,7);=>tuple
+# dict2 = {
+#     "name":"nizam",
+#     "age":21
+# }=>dict
+# set1 = {4,6,87,6,6,9};=>dict
+# print(set1)
+# n1 =23;
+# n2 =23;
+# print(n1 == n2)=>Boolean
+
+# Operators=>

@@ -8,7 +8,7 @@ percent = (int(tip)*float(bill1))/100;
 total = float(bill1)+ percent;
 
 each1 = (total)/int(split)
-each = "{:.2f}".format(each1)
+each = "{:.3f}".format(each1)
 print(f"Each peson should pay: ${each}")
 
 

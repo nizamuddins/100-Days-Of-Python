@@ -170,7 +170,7 @@
 
 # Operations on List
 
-li = [2,4,67,2,6,7,8];
+# li = [2,4,67,2,6,7,8];
 # pop
 # print(li.pop())
 # print(li)
@@ -207,22 +207,65 @@ li = [2,4,67,2,6,7,8];
 # li.clear();
 # print(li);
 
+# split() functions=>
+
 # string = "Md'Nizam'Uddin";
 # s = string.split("'");
 # print(s)
-string = "MdNizam";
-s = [char for char in string];
-s.reverse()
-s2="".join(s) 
-print(s2)
+
+# string = "MdNizam";
+# s = [char for char in string];
+# print(s)
+
+# reverse()=>Does not return
+# s.reverse()
+# print(s)
+
+# join()=>returns
+# s2="".join(s) 
+# print(s2)
+
+# sum()=>
+# It takes Just iterables
+
+# print(sum(li));
 
 
+# random and math
+# import random
+# import math
 
+# re = random.randint(0,10);
+# print(re)
 
+# re1 = math.floor(random.random()*3)+1;
+# print(re1)
 
+# li = [2,5,7,9];
+# random.shuffle(li);
+# print(li)
 
+# ch = random.choice(li);
+# print(ch)
 
+# functions=>
+# A function is a Sequence of instructions which performs a particular task and it takes input as a parameter and output a value after performing a specific Operations
 
+# why do we need functions
+# it is reusable
+# it maintains a neat code
+# It provides modularizations
+# Easy Debugging
+
+# keywords=>
+
+# break
+Used to terminate
+
+def func(a,b):
+    return a+b
+
+print(func(6,7))
 
 
 

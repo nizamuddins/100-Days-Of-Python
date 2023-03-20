@@ -550,6 +550,9 @@ t = ("Name","age","class");
 #     "Name":"Nizam",
 #     "Age":21
 # }
+
 # l2 = {**l};
 # print(l2)
 
+# checking a key exits
+# print("Name" in l)
